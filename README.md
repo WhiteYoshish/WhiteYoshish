@@ -35,7 +35,7 @@ Building complex systems independently. Using AI as force multiplier, not crutch
 ![Ghidra](https://img.shields.io/badge/Ghidra-ED1C24?style=flat&logo=ghidra&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-## What I Build
+## What I've Build
 
 **Self-Hosted AI Stack** (9 services, GPU-accelerated)
 - Ollama (RTX 5080 16GB) running abliterated models
