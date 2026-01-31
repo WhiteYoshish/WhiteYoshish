@@ -2,8 +2,6 @@
 
 **Self-Taught | Linux Enthusiast | Security Research**
 
-Building complex systems independently. Using AI as force multiplier, not crutch.
-
 ---
 
 ## Current Focus
@@ -66,7 +64,7 @@ Building complex systems independently. Using AI as force multiplier, not crutch
 
 ## Philosophy
 
-**On Learning:** AI collapsed the Linux learning barrier from 40 hours → 2 hours. Same depth, 10x faster. Knowledge gatekeeping is dead.
+**On Learning:** AI collapsed the Linux learning barrier from 40 hours → 2 hours. Same depth, 10x faster.
 
 **On AI Assistance:** Transparent about building with Claude Code/Opus 4.5. Modern development = effective tool use. Understanding > copying.
 
@@ -107,7 +105,6 @@ The term "bug" in computing originated from an actual moth found trapped in the 
 ### Built with AI Assistance
 
 Projects developed using Claude Code (Opus 4.5) for acceleration.
-**Code is mine. AI is the debugger, documentation writer, and research assistant.**
 
 *"Make it work, make it big, make it legendary."*
 
